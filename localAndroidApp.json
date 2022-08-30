@@ -1,0 +1,11 @@
+{
+  "url": "http://127.0.0.1:4723/wd/hub",
+  "platformName": "Android",
+  "platformVersion": "11.0",
+  "deviceName": "emulator-5554",
+  "appPackage": "io.material.catalog",
+  "appActivity": "io.material.catalog.main.MainActivity",
+  "skipUnlock": "true",
+  "noReset": "false",
+  "udid": "emulator-5554"
+}
